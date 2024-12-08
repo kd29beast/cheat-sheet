@@ -1,0 +1,37 @@
+body{
+  background: #edebeb;  
+}
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+ 
+.content{
+    font-family: "Jaro", sans-serif;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #665e5e;
+    color: aliceblue;
+    height: 56px;
+}
+
+.container{
+   width: 52vw;
+   padding: 32px 0;
+   margin: auto;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.logo{
+    padding: 0 7px;
+}
+
+.logo img{
+    width: 32px;
+}
